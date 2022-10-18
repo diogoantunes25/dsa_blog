@@ -6,7 +6,7 @@ title: "xu"
 owner: "Diogo Santiago Antunes"
 info: "A student at IST"
 #description
-desc: "a blog made for me"
+desc: "A blog made for myself - materialization of the Feynman technique."
 
 #menu
 menu:
@@ -41,7 +41,7 @@ switch_dark: 🌑
 
 # favicon
 # TODO: Change this
-favicon: /images/favicon.png
+# favicon: /images/favicon.png
 # thumbnail
 thumbnail: /images/thumbnail.jpg
 
